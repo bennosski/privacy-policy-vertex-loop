@@ -4,7 +4,7 @@ To better protect your privacy we provide this privacy policy notice explaining 
 
 ## Advertisement and Other Third Parties
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track user activities on this app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This app has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). Learn more about Advertisements from Unity [here](https://unity3d.com/legal/privacy-policy#:~:text=Advertising%3A,viewed%20or%20interacted%20with%20ads.).
+Advertising partners and other third parties may use cookies, scripts and/or web beacons to track user activities on this app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This app has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). Learn more about Advertisements from Unity [here](https://docs.unity.com/ads/GoogleDataSafety.html).
 
 ## Changes To This Privacy Policy
 
