@@ -14,4 +14,4 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send us an email to bennosski@gmail.com.
+For any questions or concerns regarding the privacy policy or with any other questions about Vertex Loop, please send us an email to bennosski@gmail.com.
