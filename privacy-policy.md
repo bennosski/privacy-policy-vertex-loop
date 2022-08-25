@@ -1,3 +1,7 @@
+# App Support
+
+Please contact us at bennosski@gmail.com with any questions about Vertex Loop. 
+
 # Privacy Policy
 
 To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
